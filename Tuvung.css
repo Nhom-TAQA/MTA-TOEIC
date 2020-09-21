@@ -38,15 +38,27 @@
 	margin-right: 5px;
 	overflow: hidden;	
 }
+.TenTieuDe {
+	font-size: 25px;
+	padding: 10px 10px;
+}
 
 .tb-mk1{
-    border: solid 1px red; 
+    border: solid 1px #ededed; 
+	border-bottom: solid 2px #007bffb5;
 }
 
 .td-mk1{
     padding: 10px;
     width: 130px;
-    border:  solid 1px red;
+    border-right: solid 2px #ededed;
+    
+    
+}
+.td-mk2{
+	padding-left: 10px;
+	padding-bottom: 15px;
+	padding-top: 15px;
 }
 
 #kmno4{
